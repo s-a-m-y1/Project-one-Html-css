@@ -1,9 +1,13 @@
+
 # Adidas Landing Page
 
 A modern and responsive landing page built with **HTML5** and **CSS3**. This project recreates a clean Adidas-inspired homepage while practicing core CSS concepts such as Flexbox, pseudo-elements, media queries, and responsive design.
 
 ## 📸 Preview
 
+<img width="1680" height="1050" alt="Screenshot From 2026-07-01 06-06-59" src="https://github.com/user-attachments/assets/bbbc2048-7c47-4b97-a105-ff313bb2b3a6" />
+<img width="1680" height="1050" alt="Screenshot From 2026-07-01 06-07-25" src="https://github.com/user-attachments/assets/fe01813d-b90a-44df-9880-0ac557160522" />
+<img width="1680" height="1050" alt="Screenshot From 2026-07-01 06-07-35" src="https://github.com/user-attachments/assets/98ac897b-31f6-49f8-9288-9647ab0d0d8e" />
 
 ## 🚀 Features
 
